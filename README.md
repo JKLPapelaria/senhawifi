@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,7 @@
 <body>
 
 <script>
-    // Verifica se o parâmetro 'followed' está presente na URL
+    // Verifica se o parâmetro 'SENHAWIFI' está presente na URL
     const urlParams = new URLSearchParams(window.location.search);
     const followed = urlParams.get('followed');
 
