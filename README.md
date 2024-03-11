@@ -13,7 +13,7 @@
     const followed = urlParams.get('followed');
 
     // Se o usuário seguiu o Instagram, exibe a senha do Wi-Fi
-    if (followed === 'true') {
+    if (SENHAWIFI === 'true') {
         document.write('<h1>Seja bem-vindo! Aqui está a senha do Wi-Fi: jkl1234567</h1>');
     } else {
         document.write('<h1>Por favor, siga nosso Instagram para obter a senha do Wi-Fi.</h1>');
