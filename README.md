@@ -10,7 +10,7 @@
     <h1>Bem-vindo! Para obter a senha do Wi-Fi, siga nosso Instagram:</h1>
     
     <!-- Link ou botão clicável para redirecionar para o Instagram -->
-    <a href="https://www.instagram.com/jklpapelaria_/" target="_blank">Siga nosso Instagram</a>
+    <a href="[https://www.instagram.com/jklpapelaria_/](https://www.instagram.com/jklpapelaria_/)" target="_blank">Siga nosso Instagram</a>
 
     <script>
         // Função para verificar se o usuário seguiu o Instagram (chamada ao retornar da página do Instagram)
