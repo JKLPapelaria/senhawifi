@@ -22,3 +22,4 @@
 
 </body>
 </html>
+<a href="https://www.instagram.com/sua_loja/" target="_blank" onclick="verificarSeguindoInstagram()">Siga nosso Instagram</a>
