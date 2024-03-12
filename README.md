@@ -7,18 +7,18 @@
 </head>
 <body>
 
-<script>
-    // Verifica se o parâmetro 'followed' está presente na URL
-    const urlParams = new URLSearchParams(window.location.search);
-    const followed = urlParams.get('followed');
+    <h1>Bem-vindo! Para obter a senha do Wi-Fi, siga nosso Instagram:</h1>
+    
+    <!-- Link ou botão clicável para redirecionar para o Instagram -->
+    <a href="https://www.instagram.com/sua_loja/" target="_blank">Siga nosso Instagram</a>
 
-    // Se o usuário seguiu o Instagram, exibe a senha do Wi-Fi
-    if (followed === 'true') {
-        document.write('<h1>Seja bem-vindo! Aqui está a senha do Wi-Fi: SUA_SENHA_WIFI</h1>');
-    } else {
-        document.write('<h1>Por favor, siga nosso Instagram para obter a senha do Wi-Fi.</h1>');
-    }
-</script>
+    <script>
+        // Função para verificar se o usuário seguiu o Instagram (chamada ao retornar da página do Instagram)
+        function verificarSeguindoInstagram() {
+            // Exiba a senha do Wi-Fi ou execute a lógica necessária
+            alert('Senha do Wi-Fi: SUA_SENHA_WIFI');
+        }
+    </script>
 
 </body>
 </html>
