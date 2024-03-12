@@ -1,5 +1,5 @@
 
-<html lang="en">
+<html lang="br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,4 +22,4 @@
 
 </body>
 </html>
-<a href="https://www.instagram.com/sua_loja/" target="_blank" onclick="verificarSeguindoInstagram()">Siga nosso Instagram</a>
+<a href="[https://www.instagram.com/sua_loja/](https://www.instagram.com/jklpapelaria_/SENHAWIFI)" target="_blank" onclick="verificarSeguindoInstagram()">Siga nosso Instagram</a>
