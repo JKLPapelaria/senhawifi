@@ -22,4 +22,4 @@
 
 </body>
 </html>
-<a href="[https://www.instagram.com/jklpapelaria_/](https://www.instagram.com/jklpapelaria_/)" target="_blank" onclick="verificarSeguindoInstagram()">Senha aqui</a>
+
