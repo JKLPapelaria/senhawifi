@@ -40,7 +40,7 @@
     </style>
 </head>
 <body>
- <img src="JKL.png" alt="Logo da sua empresa">
+ <img src="JKL.png" alt="Logo da sua empresa 5x5cm">
     <h1>Bem-vindo! Para obter a senha do Wi-Fi, siga nosso Instagram:</h1>
     
     <!-- Link ou botão clicável para redirecionar para o Instagram -->
