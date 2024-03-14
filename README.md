@@ -34,8 +34,8 @@
             background-color: #0056b3;
         }
         img {
-            max-width: 20px;
-            margin-top: 20px;
+            max-width: 10px;
+            margin-top: 10px;
         }
     </style>
 </head>
