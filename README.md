@@ -34,13 +34,13 @@
             background-color: #0056b3;
         }
         img {
-            max-width: 150px;
+            max-width: 20px;
             margin-top: 20px;
         }
     </style>
 </head>
 <body>
- <img src="JKL.png" alt="Logo da sua empresa 5x5cm">
+ <img src="JKL.png" alt="Logo da sua empresa">
     <h1>Bem-vindo! Para obter a senha do Wi-Fi, siga nosso Instagram:</h1>
     
     <!-- Link ou botão clicável para redirecionar para o Instagram -->
