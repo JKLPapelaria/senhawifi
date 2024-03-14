@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -34,7 +34,7 @@
             background-color: #0056b3;
         }
         img {
-            max-width: 120px;
+            max-width: 150px;
             margin-top: 20px;
         }
     </style>
